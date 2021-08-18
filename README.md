@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kast6666
+- 👀 I’m interested in DevOps Technologies
+- 🌱 I’m currently learning: Python, Docker, Amazon Web Services
+- 📫 How to reach me: Kast666xxx@Mail.ru
