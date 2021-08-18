@@ -1,5 +1,6 @@
+# ====== imports block ================================== #
 import random
-
+# ====== defining functions ============================= #
 def is_int(num):  # проверка правой границы
     if not num.isdigit():
         return False
@@ -36,7 +37,7 @@ def user_input(max_num):  # ввод пользователя
     else:
         user_num = int(user_num)
     return user_num
-
+# ====== main code ====================================== #
 print('Добро пожаловать в числовую угадайку')
 while True:    
     max_num = input('Из скольких чисел будем угадывать? (Введите число больше 3): ')
@@ -67,3 +68,4 @@ while True:
         if is_more.lower() != 'y':
             print('Спасибо, что играли в числовую угадайку. Еще увидимся...')
             break
+# ====== end of code ==================================== #
