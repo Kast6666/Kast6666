@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Sergei
-- 👀 I’m interested in DevOps Technologies
-- 🌱 I’m currently learning: Python, Docker, Amazon Web Services
-- 📫 How to reach me: Kast666xxx@Mail.ru
+This repo was created to save some interesting tasks and solutions from the courses (https://stepik.org/course/58852/syllabus and https://stepik.org/course/68343/syllabus)
